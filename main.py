@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 #MF-MNER: Multi-models Fusion for MNER in Chinese Clinical Electronic Medical Records
+@Author: HAOZE DU, JIAHAO XV
+@Date: 2023-09-27
+@LastEditTime: 2023-10-6
+@Description: This file is for building model. 
+@All Right Reserve
 
 # 
 #
