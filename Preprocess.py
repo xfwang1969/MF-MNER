@@ -1,4 +1,9 @@
-#%%
+'''
+@Author: HAOZE DU, JIAHAO XV
+@Date: 2023-09-27
+@LastEditTime: 2023-10-6
+@Description: This file is for building model. 
+@All Right Reserve
 
 
 import json
